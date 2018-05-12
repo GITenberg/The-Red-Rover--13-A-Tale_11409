@@ -1,5 +1,8 @@
 _repo: The-Red-Rover--13-A-Tale_11409
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -18,6 +21,8 @@ description: Get set for an exhilarating nautical adventure that pits one of the
   shares the fast pace and detailed plotting of Cooper's more famous books, such as
   The Last of the Mohicans, it's a more humorous take on the historical novel than
   many of his other works.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11409#The-Red-Rover--13-A-Tale
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
